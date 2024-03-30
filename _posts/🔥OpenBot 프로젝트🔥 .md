@@ -1,10 +1,11 @@
-# 🔥OpenBot 프로젝트🔥
+---
+title: 🔥OpenBot 프로젝트🔥
+layout: post
+date: 2023-07-16 16:10:00 +0900
+categories: [project]
+tags: [highschool]
+---
 
-# 그룹: 이과!
-
-# 팀: 서박서박!😎(서성민,박준영)
-
-### 팀 소개: 각자의 성을 따서 만듦
 
 [https://github.com/P-hongsi/OpenBot](https://github.com/P-hongsi/OpenBot)
 
