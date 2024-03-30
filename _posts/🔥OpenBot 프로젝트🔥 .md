@@ -1,9 +1,11 @@
 ---
-title: 🔥OpenBot 프로젝트🔥
 layout: post
+title: 🔥OpenBot 프로젝트🔥
 date: 2023-07-16 16:10:00 +0900
+description: '고딩때 했던 프로젝트'
 categories: [project]
 tags: [highschool]
+
 ---
 
 
@@ -40,7 +42,7 @@ OpenBot은 로봇 개발을 쉽고 저렴하게 만들어주는 훌륭한 플랫
 
 - 각도 조절 및 전진, 후진, 좌회전, 우회전 코드
 
-![Untitled](_posts/🔥OpenBot 프로젝트🔥/Untitled.png)
+![Untitled](/assets/img/code1.png)
 
 > 작동 영상
 > 
@@ -49,7 +51,7 @@ OpenBot은 로봇 개발을 쉽고 저렴하게 만들어주는 훌륭한 플랫
 
 - 폰과 시리얼 통신 코드
 
-![Untitled](_posts/🔥OpenBot 프로젝트🔥/Untitled 1.png)
+![Untitled](/assets/img/code2.png)
 
 > 작동 영상
 > 
